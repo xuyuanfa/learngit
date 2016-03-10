@@ -1,3 +1,3 @@
 git
-Creating a new banch is quick
+Creating a new banch is quick and simple
 
